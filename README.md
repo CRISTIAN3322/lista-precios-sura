@@ -6,7 +6,7 @@
 tabla-precios-sura.vercel.app
 
 # REPOSITORIO GITHUB
-https://lista-precios-sura.vercel.app
+https://github.com/CRISTIAN3322/lista-precios-sura.git
 
 
 
